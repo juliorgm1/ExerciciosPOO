@@ -1,3 +1,7 @@
+package Animal;
+
+import Animal.Cachorro;
+
 public class TestaAnimais {
     public static void main(String[] args) {
         Lobo lobo = new Lobo(3,4,8,"Preto");

@@ -1,3 +1,5 @@
+package Animal;
+
 public abstract class Animal {
     protected int idade;
     protected int quantidadeMembros;

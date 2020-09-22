@@ -1,3 +1,5 @@
+package Animal;
+
 public class Cachorro extends Mamifero {
     public Cachorro(int idade, int quantidadeMembros, double peso, String corPelo) {
         super(idade, quantidadeMembros, peso, corPelo);

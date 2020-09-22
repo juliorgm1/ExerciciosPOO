@@ -1,3 +1,7 @@
+package Animal;
+
+import Animal.Animal;
+
 public abstract class Mamifero extends Animal {
     protected String corPelo;
 
